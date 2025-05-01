@@ -45,12 +45,12 @@ You can use **Figma**, **Adobe XD**, or **Penpot** for design mockups.
 
 | Layer         | Technology           |
 | ------------- | -------------------- |
-| Frontend      | React / React Native |
+| Frontend      | React
 | Backend       | Node.js + Express    |
-| Database      | Firebase / MongoDB   |
+| Database      | Firebase
 | Authentication| Firebase Auth        |
-| Hosting       | Firebase / Vercel    |
-| Design        | Figma / Tailwind CSS |
+| Hosting       | Firebase
+| Design        | Figma + CSS |
 
 ---
 
@@ -89,15 +89,10 @@ npm start
  Offline reporting mode
 
 🤝 Contributing
-We welcome all contributions!
-
-bash
-Copy
-Edit
-# Fork it
-# Create a new branch: git checkout -b feature-name
-# Make your changes and commit: git commit -m 'Feature'
-# Push and open a PR
+Fork it
+Create a new branch: git checkout -b feature-name
+Make your changes and commit: git commit -m 'Feature'
+Push and open a PR
 See the CONTRIBUTING.md file for full guidelines.
 
 📄 License
@@ -112,6 +107,5 @@ Early testers and contributors.
 
 🌍 Connect With Us
 GitHub: vutagwa
-
 LinkedIn: marion vutagwa
 Email: vutagwamia@gmail.com
