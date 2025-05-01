@@ -34,7 +34,7 @@ Design your app with simplicity, clarity, and student-friendliness:
 - Tabs for reports, user management, alert system
 - Dark mode for extended use
 
-### 🟢 Guardian View *(Optional)*
+### 🟢 Guardian View
 - Overview of child reports, emergency alerts, school bulletins
 
 You can use **Figma**, **Adobe XD**, or **Penpot** for design mockups.
@@ -57,13 +57,13 @@ You can use **Figma**, **Adobe XD**, or **Penpot** for design mockups.
 ## 🛠️ Setup Instructions
 
 # Clone the repository
-git clone https://github.com/yourusername/safe-schools.git
+git clone https://github.com/vutagwa/safeSchools.git
 cd safe-schools
 
 # Install dependencies
 npm install
 
-# Add Firebase configuration to /src/firebaseConfig.js
+# Add Firebase configuration to /src/firebase/Config.js
 
 # Start development server
 npm start
